@@ -1,2 +1,2 @@
 # CSRSimX
-Hand-drawn Circuit Simulation and Recognition using SVM and Deep Learning
+CSRSimX - Hand-drawn Circuit Simulation and Recognition using Deep Learning and Machine Learning 
